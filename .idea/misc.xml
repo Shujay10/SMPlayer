@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.173" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/drawable/ic_music1.xml" value="0.173" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/drawable/ic_music2.xml" value="0.173" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/layout/activity_host.xml" value="0.27291666666666664" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/layout/activity_join.xml" value="0.27291666666666664" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/layout/activity_music_player.xml" value="0.27291666666666664" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/layout/host_fragment.xml" value="0.2578125" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/layout/recycler_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/College/SEM 5/CN/Project/Final/SMPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMPlayer</string>
+    <string name="host">Host</string>
+    <string name="join">Join</string>
+    <string name="sync_music_streamer">Sync Music Streamer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_of_the_song">Title of the song</string>
+</resources>
